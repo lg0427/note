@@ -1,16 +1,3 @@
-##前端
-
->1、nodejs 不是一个框架，是js运行环境，类似与java中的jvm
->"全站程序员"
->2、js mvc框架 比较有名的是：expressjs 
-	
-	基于 nodejs：
-			1、Sails.js Total.js Partial.js Koa.js
-			2、locomotive.js Express.js Flatiron.js
->3、reactjs fackbook 出的http://facebook.github.io/react/
->4、reactjs 最大的作用用来开发ui组件，特点是 可以封装大量代码
->5、coolie 先入手
->
 ###设置鼠标样式
 
 	cursor ： pointer
@@ -359,3 +346,29 @@
 	  return i
 	}
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!---->

@@ -150,10 +150,12 @@
 
 ![flex-shrink](/Users/lanouhn/Desktop/biji/imgs-for-md/align-self.png)
 
+orientation：检查设备处于横向 landscape 还是竖屏 portrait
 
-
-
-
+文本换行：用弹性布局，竖直方向截取行数
+	
+	box-orient:vertical;
+	line-clamp:4;
 
 
 
